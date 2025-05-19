@@ -1,0 +1,27 @@
+Mocks
+
+https://designer.mocky.io/
+
+New Mock
+
+200 - OK
+
+HTTP Response Body
+
+{
+   "authorized": true
+}
+
+Generate My HTTP Response
+
+https://run.mocky.io/v3/912e15bb-e01e-4423-b15a-ccd2d6fe2576
+
+-------------------------
+
+200 - OK
+
+HTTP Response Boby -> Empty
+
+https://run.mocky.io/v3/09284498-517b-4899-b14f-a0d62108f150
+
+------------------------
