@@ -56,7 +56,7 @@ public class Wallet {
         return this.walletType.equals(WalletType.Enum.USER.get());
     }
 
-    public boolean isBalancerEqualOrGreatherThan(BigDecimal value) {
+    public boolean isBalancerEqualOrGreaterThan(BigDecimal value) {
         return this.balance.doubleValue() >= value.doubleValue();
     }
 
